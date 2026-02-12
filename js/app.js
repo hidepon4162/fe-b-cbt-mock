@@ -5,7 +5,7 @@
 import { questions } from "../data/questions.js";
 
 // ========= State =========
-const LS_KEY = "fe_b_mock_cbt_v2";
+const LS_KEY = "fe_b_mock_cbt_v3";
 const SEC_PER_QUESTION = 2 * 60; // 1問あたり2分
 let idx = 0;
 let submitted = false;
